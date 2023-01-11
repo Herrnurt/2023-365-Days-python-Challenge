@@ -7,3 +7,5 @@
 + Day 6 : Text to Handwriting using Python
 + Day 7 : CReating a TreeMap in Python
 + Day 8 : Fahrenheit to Celsius Python
++ Day 9 : BMI Calculator with python
++ Day 10 : Die Roll Simulator in inPython

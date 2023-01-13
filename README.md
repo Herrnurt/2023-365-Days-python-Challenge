@@ -10,7 +10,7 @@
 + Day 9 : BMI Calculator with python
 + Day 10 : Die Roll Simulator in inPython
 + Day 11 : Python program to Generate password
-+ Day 12 : 
++ Day 12 : Language Detection using Python
 + Day 13 : 
 + Day 14 : 
 + Day 15 : 

@@ -11,7 +11,7 @@
 + Day 10 : Die Roll Simulator in inPython
 + Day 11 : Python program to Generate password
 + Day 12 : Language Detection using Python
-+ Day 13 : 
++ Day 13 : CountryInfo in Python
 + Day 14 : 
 + Day 15 : 
 + Day 16 : 

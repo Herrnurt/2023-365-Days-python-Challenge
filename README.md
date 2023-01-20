@@ -17,7 +17,7 @@
 + Day 16 : Live Weatge Updates with Python
 + Day 17 : Age Calculator using Python
 + Day 18 : Three-Dimentional contour plots
-+ Day 19 : 
++ Day 19 : Chessboard using Matplotlib in Python
 + Day 20 : 
 + Day 21 : 
 + Day 22 : 

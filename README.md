@@ -18,7 +18,7 @@
 + Day 17 : Age Calculator using Python
 + Day 18 : Three-Dimentional contour plots
 + Day 19 : Chessboard using Matplotlib in Python
-+ Day 20 : 
++ Day 20 : Spelling Correction with Python
 + Day 21 : 
 + Day 22 : 
 + Day 23 : 

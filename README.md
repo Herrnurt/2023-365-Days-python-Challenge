@@ -20,7 +20,7 @@
 + Day 19 : Chessboard using Matplotlib in Python
 + Day 20 : Spelling Correction with Python
 + Day 21 : Fidget Spinner game with Python
-+ Day 22 : 
++ Day 22 : Pick a random card using python
 + Day 23 : 
 + Day 24 : 
 + Day 25 : 

@@ -22,7 +22,7 @@
 + Day 21 : Fidget Spinner game with Python
 + Day 22 : Pick a random card using python
 + Day 23 : Contact Book in Python
-+ Day 24 : 
++ Day 24 : Validate NAgrams using Python
 + Day 25 : 
 + Day 26 : 
 + Day 27 : 

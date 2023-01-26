@@ -23,7 +23,7 @@
 + Day 22 : Pick a random card using python
 + Day 23 : Contact Book in Python
 + Day 24 : Validate NAgrams using Python
-+ Day 25 : 
++ Day 25 : Extracting Text from PDF with python
 + Day 26 : 
 + Day 27 : 
 + Day 28 : 

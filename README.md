@@ -24,7 +24,7 @@
 + Day 23 : Contact Book in Python
 + Day 24 : Validate NAgrams using Python
 + Day 25 : Extracting Text from PDF with python
-+ Day 26 : 
++ Day 26 : Line Continuation charaters in Pytho
 + Day 27 : 
 + Day 28 : 
 + Day 29 : 

@@ -25,7 +25,7 @@
 + Day 24 : Validate NAgrams using Python
 + Day 25 : Extracting Text from PDF with python
 + Day 26 : Line Continuation charaters in Pytho
-+ Day 27 : 
++ Day 27 : Pie charts using Matplotlib in Python
 + Day 28 : 
 + Day 29 : 
 + Day 30 : 

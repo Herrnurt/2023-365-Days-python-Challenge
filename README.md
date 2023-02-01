@@ -28,8 +28,8 @@
 + Day 27 : Pie charts using Matplotlib in Python
 + Day 28 : Bar Graph using Matplotlib in Python
 + Day 29 : Defang IP Address using Pythonr.
-+ Day 30 : Passwprd Authentification using Python
-+ Day 31 : 
++ Day 30 : Password Authentification using Python
++ Day 31 : Radar Plot using Python
 + Day 32 : 
 + Day 33 : 
 + Day 34 : 

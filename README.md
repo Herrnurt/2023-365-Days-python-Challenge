@@ -30,7 +30,7 @@
 + Day 29 : Defang IP Address using Pythonr.
 + Day 30 : Password Authentification using Python
 + Day 31 : Radar Plot using Python
-+ Day 32 : 
++ Day 32 : Resistor Color Code detection using Python
 + Day 33 : 
 + Day 34 : 
 + Day 35 : 

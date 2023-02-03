@@ -31,7 +31,7 @@
 + Day 30 : Password Authentification using Python
 + Day 31 : Radar Plot using Python
 + Day 32 : Resistor Color Code detection using Python
-+ Day 33 : 
++ Day 33 : Python Code for Pascal's Triangle
 + Day 34 : 
 + Day 35 : 
 + Day 36 : 

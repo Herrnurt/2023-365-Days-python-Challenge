@@ -32,7 +32,7 @@
 + Day 31 : Radar Plot using Python
 + Day 32 : Resistor Color Code detection using Python
 + Day 33 : Python Code for Pascal's Triangle
-+ Day 34 : 
++ Day 34 : Full Diamond Pattern in Python
 + Day 35 : 
 + Day 36 : 
 + Day 37 : 

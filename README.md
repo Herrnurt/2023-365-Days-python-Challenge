@@ -34,7 +34,7 @@
 + Day 33 : Python Code for Pascal's Triangle
 + Day 34 : Full Diamond Pattern in Python
 + Day 35 : Create Font Art using Python
-+ Day 36 : 
++ Day 36 : Remove Cuss words using Python
 + Day 37 : 
 + Day 38 : 
 + Day 39 :

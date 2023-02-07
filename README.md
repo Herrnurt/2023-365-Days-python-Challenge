@@ -1,6 +1,6 @@
 ### 2023-365-Days-python-Challenge-Codes-Codes
 + Day 1 : Line Continuation Character in Python
-+ Day 2 : Count Character occurences using python
++ Day 2 : Count Character occurences using python4
 + Day 3 : Panlidrome words using python
 + Day 4 : LCM using python
 + Day 5 : Roman Numbers to Decimals in python
@@ -35,7 +35,7 @@
 + Day 34 : Full Diamond Pattern in Python
 + Day 35 : Create Font Art using Python
 + Day 36 : Remove Cuss words using Python
-+ Day 37 : 
++ Day 37 : Sequence Matcher In Python 
 + Day 38 : 
 + Day 39 :
 + Day 40 :

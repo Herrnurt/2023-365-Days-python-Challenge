@@ -37,7 +37,7 @@
 + Day 36 : Remove Cuss words using Python
 + Day 37 : Sequence Matcher In Python 
 + Day 38 : Scrape Table from a Website using Python
-+ Day 39 :
++ Day 39 : QR Code using Python
 + Day 40 :
 + Day 51 : 
 + Day 52 : 

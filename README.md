@@ -38,7 +38,7 @@
 + Day 37 : Sequence Matcher In Python 
 + Day 38 : Scrape Table from a Website using Python
 + Day 39 : QR Code using Python
-+ Day 40 :
++ Day 40 : Excution Time of a Python Program
 + Day 51 : 
 + Day 52 : 
 + Day 53 : 

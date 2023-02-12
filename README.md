@@ -40,15 +40,15 @@
 + Day 39 : QR Code using Python
 + Day 40 : Excution Time of a Python Program
 + Day 41 :  Image to Pencil Sketch in Python
-+ Day 52 : 
-+ Day 53 : 
-+ Day 54 : 
-+ Day 55 : 
-+ Day 56 : 
-+ Day 57 : 
-+ Day 58 : 
-+ Day 59 :
-+ Day 60 : 
++ Day 42 : Email SLicer in Python
++ Day 43 : 
++ Day 44 : 
++ Day 45 : 
++ Day 46 : 
++ Day 47 : 
++ Day 48 : 
++ Day 49 :
++ Day 50 : 
 + Day 31 : 
 + Day 32 : 
 + Day 33 : 

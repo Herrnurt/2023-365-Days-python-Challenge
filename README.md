@@ -43,7 +43,7 @@
 + Day 42 : Email SLicer in Python
 + Day 43 : Search Anything in Python
 + Day 44 : Voice Recorder in Python
-+ Day 45 : 
++ Day 45 : Calculator in Python
 + Day 46 : 
 + Day 47 : 
 + Day 48 : 

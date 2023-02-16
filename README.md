@@ -44,7 +44,7 @@
 + Day 43 : Search Anything in Python
 + Day 44 : Voice Recorder in Python
 + Day 45 : Calculator in Python
-+ Day 46 : 
++ Day 46 : Get Zip Code with given location using GeoPy in Python
 + Day 47 : 
 + Day 48 : 
 + Day 49 :

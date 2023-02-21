@@ -49,7 +49,7 @@
 + Day 48 : Bubble Sort using python
 + Day 49 : Insertion Sort Using Python
 + Day 50 : Progress Bar in python
-+ Day 31 : 
++ Day 31 : Perfect Number verification in Python
 + Day 32 : 
 + Day 33 : 
 + Day 34 : 

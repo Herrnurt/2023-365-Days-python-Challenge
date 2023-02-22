@@ -49,27 +49,26 @@
 + Day 48 : Bubble Sort using python
 + Day 49 : Insertion Sort Using Python
 + Day 50 : Progress Bar in python
-+ Day 31 : Perfect Number verification in Python
-+ Day 32 : 
-+ Day 33 : 
-+ Day 34 : 
-+ Day 35 : 
-+ Day 36 : 
-+ Day 37 : 
-+ Day 38 : 
-+ Day 39 :
-+ Day 40 : 
-v
-+ Day 31 : 
-+ Day 32 : 
-+ Day 33 : 
-+ Day 34 : 
-+ Day 35 : 
-+ Day 36 : 
-+ Day 37 : 
-+ Day 38 : 
-+ Day 39 :
-+ Day 40 : 
++ Day 51 : Perfect Number verification in Python
++ Day 52 : Prlimes smaller than or equl to the Number
++ Day 53 : 
++ Day 54 : 
++ Day 55 : 
++ Day 56 : 
++ Day 57 : 
++ Day 58 : 
++ Day 59 :
++ Day 60 : 
++ Day 61 : 
++ Day 62 : 
++ Day 63 : 
++ Day 64 : 
++ Day 65 : 
++ Day 66 : 
++ Day 67 : 
++ Day 68 : 
++ Day 69 :
++ Day 70 : 
 + Day 31 : 
 + Day 32 : 
 + Day 33 : 

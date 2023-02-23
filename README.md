@@ -51,7 +51,7 @@
 + Day 50 : Progress Bar in python
 + Day 51 : Perfect Number verification in Python
 + Day 52 : Prlimes smaller than or equl to the Number
-+ Day 53 : 
++ Day 53 : Pathe in which we have to count files and directories
 + Day 54 : 
 + Day 55 : 
 + Day 56 : 

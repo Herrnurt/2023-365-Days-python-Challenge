@@ -52,7 +52,7 @@
 + Day 51 : Perfect Number verification in Python
 + Day 52 : Prlimes smaller than or equl to the Number
 + Day 53 : Pathe in which we have to count files and directories
-+ Day 54 : 
++ Day 54 : Calculate a hash of a file
 + Day 55 : 
 + Day 56 : 
 + Day 57 : 
@@ -69,9 +69,9 @@
 + Day 68 : 
 + Day 69 :
 + Day 70 : 
-+ Day 31 : 
-+ Day 32 : 
-+ Day 33 : 
++ Day 71 : 
++ Day 72 : 
++ Day 73 : 
 + Day 34 : 
 + Day 35 : 
 + Day 36 : 

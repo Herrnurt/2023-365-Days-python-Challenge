@@ -55,7 +55,7 @@
 + Day 54 : Calculate a hash of a file
 + Day 55 : Assign a value to a key in Python
 + Day 56 : Screenshot in Python
-+ Day 57 : 
++ Day 57 : Number Guessing Game
 + Day 58 : 
 + Day 59 :
 + Day 60 : 

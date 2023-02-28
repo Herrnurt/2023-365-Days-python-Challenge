@@ -56,7 +56,7 @@
 + Day 55 : Assign a value to a key in Python
 + Day 56 : Screenshot in Python
 + Day 57 : Number Guessing Game
-+ Day 58 : 
++ Day 58 : Scatter Plot using Matplotlib in Python
 + Day 59 :
 + Day 60 : 
 + Day 61 : 

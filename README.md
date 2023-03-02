@@ -58,7 +58,8 @@
 + Day 57 : Number Guessing Game
 + Day 58 : Scatter Plot using Matplotlib in Python
 + Day 59 : PDF File protection using password
-+ Day 60 : 
++ Day 60 : Program to Check Armstrong Number
+
 + Day 61 : 
 + Day 62 : 
 + Day 63 : 

@@ -59,8 +59,7 @@
 + Day 58 : Scatter Plot using Matplotlib in Python
 + Day 59 : PDF File protection using password
 + Day 60 : Program to Check Armstrong Number
-
-+ Day 61 : 
++ Day 61 : Program for the Fibonacci Sequence
 + Day 62 : 
 + Day 63 : 
 + Day 64 : 

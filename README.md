@@ -61,7 +61,7 @@
 + Day 60 : Program to Check Armstrong Number
 + Day 61 : Program for the Fibonacci Sequence
 + Day 62 : program to find the factors of a Number
-+ Day 63 : 
++ Day 63 : Remove punctuation from a string
 + Day 64 : 
 + Day 65 : 
 + Day 66 : 

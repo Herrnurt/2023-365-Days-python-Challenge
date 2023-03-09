@@ -65,7 +65,7 @@
 + Day 64 : Program to cteate a Countdown Timer
 + Day 65 : Program to find the factorial of a number
 + Day 66 : Floyd's Triangle in Python using for loop
-+ Day 67 : 
++ Day 67 : Python program to add two numbers
 + Day 68 : 
 + Day 69 :
 + Day 70 : 

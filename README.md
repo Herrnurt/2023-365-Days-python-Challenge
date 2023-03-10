@@ -66,7 +66,7 @@
 + Day 65 : Program to find the factorial of a number
 + Day 66 : Floyd's Triangle in Python using for loop
 + Day 67 : Python program to add two numbers
-+ Day 68 : 
++ Day 68 : Program to find compound interest
 + Day 69 :
 + Day 70 : 
 + Day 71 : 

@@ -67,7 +67,7 @@
 + Day 66 : Floyd's Triangle in Python using for loop
 + Day 67 : Python program to add two numbers
 + Day 68 : Program to find compound interest
-+ Day 69 :
++ Day 69 : Permutations of a given string
 + Day 70 : 
 + Day 71 : 
 + Day 72 : 

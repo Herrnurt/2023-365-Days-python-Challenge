@@ -69,7 +69,7 @@
 + Day 68 : Program to find compound interest
 + Day 69 : Permutations of a given string
 + Day 70 : Program to Swap first and Last Element of a List
-+ Day 71 : 
++ Day 71 : GIF creation in Python
 + Day 72 : 
 + Day 73 : 
 + Day 34 : 

@@ -71,7 +71,7 @@
 + Day 70 : Program to Swap first and Last Element of a List
 + Day 71 : GIF creation in Python
 + Day 72 : Bitwise Operations on Integer Types
-+ Day 73 : 
++ Day 73 : Get address detail through python code
 + Day 34 : 
 + Day 35 : 
 + Day 36 : 

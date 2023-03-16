@@ -72,23 +72,23 @@
 + Day 71 : GIF creation in Python
 + Day 72 : Bitwise Operations on Integer Types
 + Day 73 : Get address detail through python code
-+ Day 34 : 
-+ Day 35 : 
-+ Day 36 : 
-+ Day 37 : 
-+ Day 38 : 
-+ Day 39 :
-+ Day 40 : 
-+ Day 31 : 
-+ Day 32 : 
-+ Day 33 : 
-+ Day 34 : 
-+ Day 35 : 
-+ Day 36 : 
-+ Day 37 : 
-+ Day 38 : 
-+ Day 39 :
-+ Day 40 : 
++ Day 74 : Python Program for Disarium Number
++ Day 75 : 
++ Day 76 : 
++ Day 77 : 
++ Day 78 : 
++ Day 79 :
++ Day 80 : 
++ Day 81 : 
++ Day 82 : 
++ Day 83 : 
++ Day 84 : 
++ Day 85 : 
++ Day 86 : 
++ Day 87 : 
++ Day 88 : 
++ Day 89 :
++ Day 90 : 
 + Day 31 : 
 + Day 32 : 
 + Day 33 : 

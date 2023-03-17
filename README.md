@@ -73,7 +73,7 @@
 + Day 72 : Bitwise Operations on Integer Types
 + Day 73 : Get address detail through python code
 + Day 74 : Python Program for Disarium Number
-+ Day 75 : 
++ Day 75 : Convert videos files to a gif in python
 + Day 76 : 
 + Day 77 : 
 + Day 78 : 

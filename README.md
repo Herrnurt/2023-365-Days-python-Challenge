@@ -74,7 +74,7 @@
 + Day 73 : Get address detail through python code
 + Day 74 : Python Program for Disarium Number
 + Day 75 : Convert videos files to a gif in python
-+ Day 76 : 
++ Day 76 : Generate Image captcha in python
 + Day 77 : 
 + Day 78 : 
 + Day 79 :

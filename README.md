@@ -76,7 +76,7 @@
 + Day 75 : Convert videos files to a gif in python
 + Day 76 : Generate Image captcha in python
 + Day 77 : Python porgram to print EMojis
-+ Day 78 : 
++ Day 78 : Image Watermarking with Python
 + Day 79 :
 + Day 80 : 
 + Day 81 : 

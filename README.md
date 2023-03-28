@@ -84,7 +84,7 @@
 + Day 83 : Convert PDF to docx using Python
 + Day 84 : 
 + Day 85 : Desktop Notification with Python
-+ Day 86 : 
++ Day 86 : WebBrowser in Python
 + Day 87 : 
 + Day 88 : 
 + Day 89 :

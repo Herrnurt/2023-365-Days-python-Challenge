@@ -85,7 +85,7 @@
 + Day 84 : 
 + Day 85 : Desktop Notification with Python
 + Day 86 : WebBrowser in Python
-+ Day 87 : 
++ Day 87 : Download PDF books from internet
 + Day 88 : 
 + Day 89 :
 + Day 90 : 

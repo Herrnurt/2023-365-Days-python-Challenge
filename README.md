@@ -86,7 +86,7 @@
 + Day 85 : Desktop Notification with Python
 + Day 86 : WebBrowser in Python
 + Day 87 : Download PDF books from internet
-+ Day 88 : 
++ Day 88 : Programm ro find edges of a coins
 + Day 89 :
 + Day 90 : 
 + Day 31 : 

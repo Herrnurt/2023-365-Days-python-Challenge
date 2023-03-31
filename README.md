@@ -87,7 +87,7 @@
 + Day 86 : WebBrowser in Python
 + Day 87 : Download PDF books from internet
 + Day 88 : Programm ro find edges of a coins
-+ Day 89 :
++ Day 89 : Get DOmain Name Information Using Python
 + Day 90 : 
 + Day 31 : 
 + Day 32 : 

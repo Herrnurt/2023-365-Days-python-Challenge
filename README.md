@@ -90,7 +90,7 @@
 + Day 89 : Get DOmain Name Information Using Python
 + Day 90 : How to Print a whole Calendar in python
 + Day 91 : Image Mirroe with Python
-+ Day 92 : 
++ Day 92 : detail about Image in Python
 + Day 93 : 
 + Day 94 : 
 + Day 95 : 

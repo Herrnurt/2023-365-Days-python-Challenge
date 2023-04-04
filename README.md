@@ -91,7 +91,7 @@
 + Day 90 : How to Print a whole Calendar in python
 + Day 91 : Image Mirroe with Python
 + Day 92 : detail about Image in Python
-+ Day 93 : 
++ Day 93 : Generate Barcode using Python
 + Day 94 : 
 + Day 95 : 
 + Day 96 : 

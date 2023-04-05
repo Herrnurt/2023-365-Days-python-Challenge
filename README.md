@@ -92,7 +92,7 @@
 + Day 91 : Image Mirroe with Python
 + Day 92 : detail about Image in Python
 + Day 93 : Generate Barcode using Python
-+ Day 94 : 
++ Day 94 : Extract Text from Image Using Python
 + Day 95 : 
 + Day 96 : 
 + Day 97 : 

@@ -95,7 +95,7 @@
 + Day 94 : Extract Text from Image Using Python
 + Day 95 : Images To PDF conversion using Python
 + Day 96 : Track phone number using Python
-+ Day 97 : 
++ Day 97 : QR Code generation using Python
 + Day 98 : 
 + Day 99 :
 + Day 100 : 

@@ -97,7 +97,7 @@
 + Day 96 : Track phone number using Python
 + Day 97 : QR Code generation using Python
 + Day 98 : Convert Decimal into other number using Python
-+ Day 99 :
++ Day 99 : Word Art From an Image Using Python
 + Day 100 : 
 + Day 101 : 
 + Day 102 : 

@@ -98,7 +98,7 @@
 + Day 97 : QR Code generation using Python
 + Day 98 : Convert Decimal into other number using Python
 + Day 99 : Word Art From an Image Using Python
-+ Day 100 : 
++ Day 100 : Python script that will keep you "online" all day
 + Day 101 : 
 + Day 102 : 
 + Day 103 : 

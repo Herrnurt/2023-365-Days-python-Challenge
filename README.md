@@ -99,7 +99,7 @@
 + Day 98 : Convert Decimal into other number using Python
 + Day 99 : Word Art From an Image Using Python
 + Day 100 : Python script that will keep you "online" all day
-+ Day 101 : 
++ Day 101 : AUtomatic Wi-fi password as Qr Code
 + Day 102 : 
 + Day 103 : 
 + Day 104 : 

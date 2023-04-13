@@ -100,6 +100,7 @@
 + Day 99 : Word Art From an Image Using Python
 + Day 100 : Python script that will keep you "online" all day
 + Day 101 : AUtomatic Wi-fi password as Qr Code
++ Day 102 : Convert CSV to JSOn
 + Day 102 : 
 + Day 103 : 
 + Day 104 : 

@@ -101,7 +101,7 @@
 + Day 100 : Python script that will keep you "online" all day
 + Day 101 : AUtomatic Wi-fi password as Qr Code
 + Day 102 : Convert CSV to JSOn
-+ Day 102 : 
++ Day 102 : Where Maths doesn't work again
 + Day 103 : 
 + Day 104 : 
 + Day 105 : 

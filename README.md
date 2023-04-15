@@ -102,7 +102,7 @@
 + Day 101 : AUtomatic Wi-fi password as Qr Code
 + Day 102 : Convert CSV to JSOn
 + Day 102 : Where Maths doesn't work again
-+ Day 103 : 
++ Day 103 : Lazy Operators --- Python 
 + Day 104 : 
 + Day 105 : 
 + Day 106 : 

@@ -107,7 +107,7 @@
 + Day 105 : Happy Engineers  Day using python
 + Day 106 : Get Vowels in Python
 + Day 107 : Fetch PDF Text in python
-+ Day 108 : 
++ Day 108 : Find ALL Python Errors
 + Day 109 :
 + Day 110 : 
 + Day 31 : 

@@ -109,7 +109,7 @@
 + Day 107 : Fetch PDF Text in python
 + Day 108 : Find ALL Python Errors
 + Day 109 : Pdf to Audio using Python
-+ Day 110 : 
++ Day 110 : List attribute of module class
 + Day 31 : 
 + Day 32 : 
 + Day 33 : 

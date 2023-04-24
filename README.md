@@ -111,7 +111,7 @@
 + Day 109 : Pdf to Audio using Python
 + Day 110 : List attribute of module class
 + Day 111 : List attribute of module class
-+ Day 112 : 
++ Day 112 : 5 wyas to remove letters from a string
 + Day 113 : 
 + Day 114 : 
 + Day 115 : 

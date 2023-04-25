@@ -112,7 +112,7 @@
 + Day 110 : List attribute of module class
 + Day 111 : List attribute of module class
 + Day 112 : 5 wyas to remove letters from a string
-+ Day 113 : 
++ Day 113 : Careful with Chained operations
 + Day 114 : 
 + Day 115 : 
 + Day 116 : 

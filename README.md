@@ -113,7 +113,7 @@
 + Day 111 : List attribute of module class
 + Day 112 : 5 wyas to remove letters from a string
 + Day 113 : Careful with Chained operations
-+ Day 114 : 
++ Day 114 : Create a Progress Bar Python 
 + Day 115 : 
 + Day 116 : 
 + Day 117 : 

@@ -115,7 +115,7 @@
 + Day 113 : Careful with Chained operations
 + Day 114 : Create a Progress Bar Python 
 + Day 115 : 
-+ Day 116 : 
++ Day 116 : Create Beautiful Graphs
 + Day 117 : 
 + Day 118 : 
 + Day 119 :

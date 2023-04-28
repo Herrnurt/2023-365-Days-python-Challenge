@@ -116,7 +116,7 @@
 + Day 114 : Create a Progress Bar Python 
 + Day 115 : 
 + Day 116 : Create Beautiful Graphs
-+ Day 117 : 
++ Day 117 : Default mutable arguments
 + Day 118 : 
 + Day 119 :
 + Day 120 : 

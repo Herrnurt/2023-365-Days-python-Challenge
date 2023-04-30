@@ -118,7 +118,7 @@
 + Day 116 : Create Beautiful Graphs
 + Day 117 : Default mutable arguments
 + Day 118 : Create Multiple Libraries in one Line
-+ Day 119 :
++ Day 119 : Unprinting stuff in Python
 + Day 120 : 
 + Day 31 : 
 + Day 32 : 

@@ -119,7 +119,7 @@
 + Day 117 : Default mutable arguments
 + Day 118 : Create Multiple Libraries in one Line
 + Day 119 : Unprinting stuff in Python
-+ Day 120 : 
++ Day 120 : Remove Image background using Python
 + Day 31 : 
 + Day 32 : 
 + Day 33 : 

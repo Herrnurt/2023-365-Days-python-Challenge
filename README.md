@@ -121,7 +121,7 @@
 + Day 119 : Unprinting stuff in Python
 + Day 120 : Remove Image background using Python
 + Day 31 :  Empyty Recycle Bin using Python
-+ Day 32 : 
++ Day 32 : Image Compression using python
 + Day 33 : 
 + Day 34 : 
 + Day 35 : 

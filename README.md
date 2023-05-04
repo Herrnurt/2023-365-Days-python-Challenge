@@ -120,33 +120,33 @@
 + Day 118 : Create Multiple Libraries in one Line
 + Day 119 : Unprinting stuff in Python
 + Day 120 : Remove Image background using Python
-+ Day 31 :  Empyty Recycle Bin using Python
-+ Day 32 : Image Compression using python
-+ Day 33 : 
-+ Day 34 : 
-+ Day 35 : 
-+ Day 36 : 
-+ Day 37 : 
-+ Day 38 : 
-+ Day 39 :
-+ Day 40 : 
-+ Day 31 : 
-+ Day 32 : 
-+ Day 33 : 
-+ Day 34 : 
-+ Day 35 : 
-+ Day 36 : 
-+ Day 37 : 
-+ Day 38 : 
-+ Day 39 :
-+ Day 40 : 
-+ Day 31 : 
-+ Day 32 : 
-+ Day 33 : 
-+ Day 34 : 
-+ Day 35 : 
-+ Day 36 : 
-+ Day 37 : 
-+ Day 38 : 
-+ Day 39 :
-+ Day 40 : 
++ Day 121 :  Empyty Recycle Bin using Python
++ Day 122 : Image Compression using python
++ Day 123 : Infinity values in Python
++ Day 124 : 
++ Day 125 : 
++ Day 126 : 
++ Day 127 : 
++ Day 128 : 
++ Day 129 :
++ Day 130 : 
++ Day 131 : 
++ Day 132 : 
++ Day 133 : 
++ Day 134 : 
++ Day 135 : 
++ Day 136 : 
++ Day 137 : 
++ Day 138 : 
++ Day 139 :
++ Day 140 : 
++ Day 141 : 
++ Day 142 : 
++ Day 143 : 
++ Day 144 : 
++ Day 145 : 
++ Day 146 : 
++ Day 147 : 
++ Day 148 : 
++ Day 149 :
++ Day 150 : 

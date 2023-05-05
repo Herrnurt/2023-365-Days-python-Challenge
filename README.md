@@ -123,7 +123,7 @@
 + Day 121 :  Empyty Recycle Bin using Python
 + Day 122 : Image Compression using python
 + Day 123 : Infinity values in Python
-+ Day 124 : 
++ Day 124 : Convert png to jpeg using Python
 + Day 125 : 
 + Day 126 : 
 + Day 127 : 

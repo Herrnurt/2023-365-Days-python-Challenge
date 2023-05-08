@@ -125,7 +125,7 @@
 + Day 123 : Infinity values in Python
 + Day 124 : Convert png to jpeg using Python
 + Day 125 : Convert png to jpeg duing python
-+ Day 126 : 
++ Day 126 : PDF to TIFF using Python
 + Day 127 : 
 + Day 128 : 
 + Day 129 :

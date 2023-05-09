@@ -126,7 +126,7 @@
 + Day 124 : Convert png to jpeg using Python
 + Day 125 : Convert png to jpeg duing python
 + Day 126 : PDF to TIFF using Python
-+ Day 127 : 
++ Day 127 : Get Window Version
 + Day 128 : 
 + Day 129 :
 + Day 130 : 

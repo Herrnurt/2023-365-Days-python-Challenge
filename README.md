@@ -128,7 +128,7 @@
 + Day 126 : PDF to TIFF using Python
 + Day 127 : Get Window Version
 + Day 128 : Cloud file Sharing using Python
-+ Day 129 :
++ Day 129 : Country Details using Python
 + Day 130 : 
 + Day 131 : 
 + Day 132 : 

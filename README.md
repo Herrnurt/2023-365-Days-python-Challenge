@@ -129,7 +129,7 @@
 + Day 127 : Get Window Version
 + Day 128 : Cloud file Sharing using Python
 + Day 129 : Country Details using Python
-+ Day 130 : 
++ Day 130 : Magic Method Invocation in Python
 + Day 131 : 
 + Day 132 : 
 + Day 133 : 

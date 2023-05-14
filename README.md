@@ -131,7 +131,7 @@
 + Day 129 : Country Details using Python
 + Day 130 : Magic Method Invocation in Python
 + Day 131 : Converts IPv4 to integer using Python
-+ Day 132 : 
++ Day 132 : LIve Exchnage Rates using Python
 + Day 133 : 
 + Day 134 : 
 + Day 135 : 

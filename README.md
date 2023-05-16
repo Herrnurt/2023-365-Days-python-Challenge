@@ -133,7 +133,7 @@
 + Day 131 : Converts IPv4 to integer using Python
 + Day 132 : LIve Exchnage Rates using Python
 + Day 133 : Rangoli Paanteern using Alphabets
-+ Day 134 : 
++ Day 134 : Checking Stocks Using Python
 + Day 135 : 
 + Day 136 : 
 + Day 137 : 

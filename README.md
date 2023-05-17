@@ -134,7 +134,7 @@
 + Day 132 : LIve Exchnage Rates using Python
 + Day 133 : Rangoli Paanteern using Alphabets
 + Day 134 : Checking Stocks Using Python
-+ Day 135 : 
++ Day 135 : LaTex math description from Python Functions
 + Day 136 : 
 + Day 137 : 
 + Day 138 : 

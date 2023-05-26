@@ -141,8 +141,7 @@
 + Day 139 :A Music player in python
 + Day 140 : Converts s number to its equivalent word using Python
 + Day 141 : Convert a Decimal number to a Roman Numeral using Python
-
-+ Day 142 : 
++ Day 142 : Python Program for Spider Chart
 + Day 143 : 
 + Day 144 : 
 + Day 145 : 

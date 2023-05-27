@@ -137,11 +137,11 @@
 + Day 135 : LaTex math description from Python Functions
 + Day 136 : Language Detection using Python
 + Day 137 : Python Program for WordClouds
-+ Day 138 : 
-+ Day 139 :A Music player in python
-+ Day 140 : Converts s number to its equivalent word using Python
-+ Day 141 : Convert a Decimal number to a Roman Numeral using Python
-+ Day 142 : Python Program for Spider Chart
++ Day 138 :A Music player in python
++ Day 139 : Converts s number to its equivalent word using Python
++ Day 140 : Convert a Decimal number to a Roman Numeral using Python
++ Day 141 : Python Program for Spider Chart
++ Day 142 : Python Code to gte NSE stock prices
 + Day 143 : 
 + Day 144 : 
 + Day 145 : 

@@ -143,7 +143,7 @@
 + Day 141 : Python Program for Spider Chart
 + Day 142 : Python Code to gte NSE stock prices
 + Day 143 : 
-+ Day 144 : 
++ Day 144 : Stock Chart Plot using Python
 + Day 145 : 
 + Day 146 : 
 + Day 147 : 

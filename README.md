@@ -144,7 +144,7 @@
 + Day 142 : Python Code to gte NSE stock prices
 + Day 143 : 
 + Day 144 : Stock Chart Plot using Python
-+ Day 145 : 
++ Day 145 : Python Program Color Names to Color Code
 + Day 146 : 
 + Day 147 : 
 + Day 148 : 

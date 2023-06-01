@@ -146,7 +146,7 @@
 + Day 144 : Stock Chart Plot using Python
 + Day 145 : Python Program Color Names to Color Code
 + Day 146 : 
-+ Day 147 : 
++ Day 147 : Star Pattern Diffrence Shapes using Python
 + Day 148 : 
 + Day 149 :
 + Day 150 : 

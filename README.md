@@ -147,6 +147,6 @@
 + Day 145 : Python Program Color Names to Color Code
 + Day 146 : 
 + Day 147 : Star Pattern Diffrence Shapes using Python
-+ Day 148 : 
++ Day 148 : mage COlor Extraction with Python
 + Day 149 :
 + Day 150 : 
